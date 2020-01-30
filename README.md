@@ -24,3 +24,7 @@ valori sulle righe restanti:
 ## Utilizzo del simulatore
 - per aggiornare e stampare a video i valori al ciclo di clock successivo, digita "y"
 - per chiudere il simulatore, digita qualunque altra cosa eccetto "y"
+
+## note varie
+- i valori visualizzati dal simulatore sono approssimati per poter essere contenuti nella schermata
+- per cambiare le impostazioni di visualizzazione (attualmente) è necessario cambiare le impostazioni dal file Main.java; richiede ricompilazione
