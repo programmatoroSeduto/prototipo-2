@@ -28,3 +28,4 @@ valori sulle righe restanti:
 ## note varie
 - i valori visualizzati dal simulatore sono approssimati per poter essere contenuti nella schermata
 - per cambiare le impostazioni di visualizzazione (attualmente) è necessario cambiare le impostazioni dal file Main.java; richiede ricompilazione
+- per valori di propagazione prossimi a 1 e con grandi quantitativi di risorsa da propagare, la variazione della densità locale presenta oscillazioni, che si riducono di intensità man mano che il coefficiente diventa sempre più piccolo
