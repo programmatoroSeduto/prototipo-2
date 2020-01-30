@@ -1,0 +1,1 @@
+java -jar "./prototipo-tesi.jar" "./es.txt"
