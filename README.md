@@ -1,4 +1,4 @@
-# Prototipo - Propagazione valori in una rete
+# Prototipo - Propagazione valori in una matrice
 
 ## per avviare il progetto:
 - scarica il jar, "es.txt" e il batch "start.bat"
