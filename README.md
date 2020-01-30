@@ -20,3 +20,7 @@ valori sulle righe restanti:
  - 0 1 25
  - 1 0 12,5
  - 1 1 6,25
+
+## Utilizzo del simulatore
+- per aggiornare e stampare a video i valori al ciclo di clock successivo, digita "y"
+- per chiudere il simulatore, digita qualunque altra cosa eccetto "y"
